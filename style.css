@@ -25,3 +25,37 @@ body {
 */
 
 /* ----- zde zacni psat vlastni css ----- */
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+
+
+.zbozi {
+    font-family: 'Rubik';
+    font-size:14px;
+    font-weight:400;
+}
+
+.vizual {
+    background: linear-gradient(#06d7c1,#50cc49);
+    width: 335px;
+    height: 440px;
+    padding: 30px;
+    }
+
+.slogan {
+    font-size:16px;
+    font-weight:500;
+    color: white;
+}
+
+.zaruka {
+    font-size:12px;
+    font-weight:400;
+    color:white;
+}
+
+.cena {
+    font-size:28px;
+    font-weight: 500;
+    color: white;
+}
