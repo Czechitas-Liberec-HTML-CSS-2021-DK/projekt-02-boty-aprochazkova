@@ -103,7 +103,10 @@ body{
 }
 
 hr.solid {
-    border-top:1px solid #06d7c1;}
+        height: 2px;
+        background-color: #06d7c1;
+        border: none;
+   }
 
 .parametr{
     text-transform: uppercase;
@@ -142,7 +145,7 @@ a{
     border-radius: 10px;
     text-decoration: none;
     position:relative;
-    top:100px;
+    top:92px;
     
     
 }
